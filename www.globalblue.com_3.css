@@ -1,0 +1,97 @@
+
+/* ::::: http://tools.globalblue.com/refundCalc/css/mpu.css ::::: */
+
+html, body { margin: 0px; padding: 0px; }
+.mpu { font-family: helvetica; height: 250px; width: 300px; padding: 0px; margin: 0px; overflow: hidden; position: relative; }
+.mpu .notification { position: absolute; top: 0px; left: 0px; height: 250px; width: 300px; z-index: 9997; }
+.mpu .notification .modal { position: absolute; top: 0px; left: 0px; z-index: 9998; height: 250px; width: 300px; background: none repeat scroll 0% 0% rgb(51, 76, 160); opacity: 0.3; }
+.mpu .notification .message { z-index: 9999; background: url('warn.png') no-repeat scroll 10px 22px / 42px 37px rgb(242, 241, 239); position: absolute; top: 50%; left: 0px; height: 80px; width: 300px; margin: -11% 0px 0px; font-family: helvetica; color: rgb(51, 76, 160); display: table; }
+.mpu .notification .message p { display: table-cell; vertical-align: middle; padding: 0px 40px 0px 60px; font-size: 12px; }
+.mpu .notification .message .close { margin: 25px 10px 0px 0px; height: 26px; width: 26px; overflow: hidden; background: url('icons.png') no-repeat scroll 0px -32px / 26px auto transparent; position: absolute; right: 0px; outline: medium none; }
+.mpu .top { margin: 0px 10px; }
+.mpu .footer { position: absolute; bottom: 0px; width: 280px; margin: 10px; padding-top: 10px; border-top: 2px dotted rgb(210, 210, 210); }
+.mpu .footer p { padding: 0px; margin: 0px; color: rgb(153, 153, 153); font-size: 12px; width: 190px; line-height: 1.1; }
+.mpu .footer p a { color: rgb(51, 75, 159); text-decoration: none; }
+.mpu .footer p a:hover { text-decoration: underline; }
+.mpu .footer .tools { position: absolute; bottom: 0px; right: 0px; overflow: hidden; height: 26px; width: 87px; }
+.mpu .footer .tools a img { position: relative; padding-left: 3px; }
+.mpu .footer .tools a.fullCalc img { top: 0px; }
+.mpu .footer .tools a.refresh img { top: -32px; }
+.mpu .footer .tools a.facebook img { top: -65px; }
+.mpu .footer .tools a.twitter img { top: -97px; }
+.mpu .footer .tools a.vkontakte img { top: -130px; }
+.mpu .footer .tools a.qq img { top: -162px; }
+.mpu .footer .tools a.weibo img { top: -195px; }
+.mpu .footer .tools a, .mpu .footer .tools a img { border: medium none; }
+.mpu form { margin: 0px 10px 10px; }
+.mpu form fieldset { border: medium none; padding: 0px; margin: 0px; }
+.mpu form .select { margin: 10px 0px; width: 278px; height: 40px; overflow: hidden; background: url('selectArrow.png') no-repeat scroll 258px -19px / 9px auto rgb(255, 255, 255); border: 1px solid rgb(197, 197, 197); border-radius: 3px 3px 3px 3px; }
+.mpu form .select select { background: none repeat scroll 0% 0% transparent; width: 274px; margin: 3px; padding-left: 5px; border: 0px none; border-radius: 0px 0px 0px 0px; height: 34px; color: rgb(153, 153, 153); font-family: Georgia; font-style: italic; }
+div:not(.msie) .mpu form .select select { font-size: 14px; }
+.mpu form .input { display: inline-block; position: relative; }
+.mpu form .input .symbol { position: absolute; top: 13px; left: 10px; color: rgb(153, 153, 153); font-family: Georgia; font-size: 12px; font-style: italic; text-align: right; }
+.mpu form input.refundInput { padding: 10px; margin-right: 5px; width: 159px; background: none repeat scroll 0% 0% rgb(255, 255, 255); border: 1px solid rgb(197, 197, 197); border-radius: 3px 3px 3px 3px; color: rgb(153, 153, 153); font-family: Georgia; font-size: 12px; font-style: italic; text-align: right; display: inline-block; vertical-align: middle; }
+.mpu form input.submitBtn { border: medium none; background: none repeat scroll 0% 0% rgb(51, 76, 160); border-radius: 3px 3px 3px 3px; color: rgb(255, 255, 255); font-family: helvetica; font-size: 14px; white-space: normal; width: 93px; height: 38px; display: inline-block; vertical-align: middle; line-height: 1; margin: 0px; }
+.mpu form input.submitBtn:disabled { background: none repeat scroll 0% 0% rgb(102, 102, 102); }
+.mpu .refund { display: table-cell; vertical-align: middle; width: 300px; height: 112px; }
+.mpu .refund p { font-weight: 100; background: none repeat scroll 0% 0% rgb(51, 76, 160); padding: 20px 10px; margin: 0px; text-align: center; color: rgb(255, 255, 255); }
+.mpu .refund p em { font-style: normal; font-weight: bold; }
+.mpu .refund a { font-size: 12px; color: rgb(255, 255, 255); text-decoration: none; font-weight: bold; }
+.mpu .refund a:hover { text-decoration: underline; }
+.mpu.int { background: url('refundSymbol.png') no-repeat scroll 15px 15px / 53px 53px rgb(242, 241, 239); }
+.mpu.int .top { padding: 10px; border-bottom: 2px dotted rgb(210, 210, 210); }
+.mpu.int .top h3 { padding: 0px; font-weight: 100; font-size: 25px; color: rgb(102, 102, 102); margin: 4px 0px 0px 65px; }
+.mpu.ext { background: url('GBLogo.png') no-repeat scroll 10px 0px / 71px 85px rgb(242, 241, 239); }
+.mpu.ext .top { margin-bottom: 7px; padding: 10px 0px; border-bottom: 2px dotted rgb(210, 210, 210); }
+.mpu.ext .top h3 { padding: 0px; font-weight: 100; font-size: 22px; color: rgb(102, 102, 102); margin: 0px 0px 0px 80px; }
+.mpu.ext form { margin-bottom: 7px; }
+.mpu.ext form .select { margin: 7px 0px; }
+.mpu.ext .refund { height: 90px; }
+.mpu.ext.zh h3 { margin-top: 8px; }
+.mpu.ext.zh form fieldset input.submitBtn { padding: 8px 15px; }
+.mpu.ext.zh .footer p { font-size: 11px; }
+.mpu.ext.ru .top h3 { font-size: 21px; margin-top: 0px; }
+.mpu.int.ru .top { padding-bottom: 9px; }
+.mpu.int.ru .top h3 { margin-top: 0px; line-height: 1; font-size: 21px; }
+.mpu.int.zh .top h3 { margin-top: 24px; }
+.firefox .mpu form .select select { height: 18px; margin: 10px; width: 290px; }
+.firefox .mpu.ext .top { margin-bottom: 1px; padding: 12px 0px; }
+.firefox .mpu.int.zh h3 { margin-top: 29px; }
+.firefox .mpu.int.ru .top { padding-top: 6px; padding-bottom: 7px; }
+.firefox .mpu.ext.zh h3 { margin-top: 22px; }
+.firefox .mpu.ext.ru h3 { margin-top: 3px; }
+.noretina .mpu .notification .message { background-image: url('warn.gif'); }
+.noretina .mpu .notification .message .close { background-image: url('icons.gif'); }
+.noretina .mpu form .select { background-image: url('selectArrow.gif'); }
+.noretina .mpu.int { background-image: url('refundSymbol.gif'); }
+.noretina .mpu.ext { background-image: url('GBLogo.gif'); }
+.ie6 .ru .top .ru { margin-top: 13px; }
+.ie6 .zh .top .zh { margin-top: 25px; }
+.msie .mpu.ext.ru .top h3 { margin-top: 4px; }
+.msie .mpu.ext.zh .top h3 { margin-top: 26px; }
+.msie .mpu.int.ru .top h3 { margin-top: -1px; }
+.msie .mpu.int.zh .top h3 { margin-top: 32px; }
+.ieNew .mpu form input.submitBtn[disabled] { background: none repeat scroll 0% 0% rgb(102, 102, 102); }
+.msie .mpu .footer .tools a.facebook img { top: -64px; }
+.msie .mpu .footer .tools a.twitter img { top: -96px; }
+.msie .mpu .footer .tools a.vkontakte img { top: -127px; }
+.msie .mpu .footer .tools a.weibo img { top: -159px; }
+.msie .mpu .footer .tools a.qq img { top: -191px; }
+.ieNew .mpu.ext form .select { margin: 0px 0px 7px; }
+.ieNew .mpu form .select select { width: 292px; }
+.ie8 .mpu form .select select { margin-top: -5px; }
+.ieNew .mpu form .select select:focus { background: none repeat scroll 0% 0% transparent; outline: medium none; }
+.ieOld .mpu.ext form { margin-top: 12px; }
+.ieOld .mpu.int form { margin-top: 20px; }
+.ieOld .mpu form .select { border: medium none; background: none repeat scroll 0% 0% transparent; height: auto; width: auto; margin: 0px 0px 5px; }
+.ieOld .mpu form .select select { margin: 0px; padding: 0px; width: 282px; }
+.ieOld .mpu form .input .symbol { color: rgb(153, 153, 153); font-family: Georgia; font-size: 18px; font-style: italic; margin: 0px; padding: 0px; overflow: hidden; position: absolute; text-align: left; top: 0px; left: 0px; width: 43px; }
+.ieOld .mpu form .select select, .ieOld .mpu form input.refundInputOld { height: auto; background-color: rgb(255, 255, 255); color: rgb(153, 153, 153); }
+.ieOld .mpu form .input { margin-bottom: 5px; }
+.ieOld .mpu form input.refundInputOld { margin-left: 48px; width: 227px; }
+.ieOld .mpu form input.submitBtnOld { float: none; display: block; width: 280px; margin-left: -10px; }
+.ieOld .mpu .notification .close { display: inline-block; margin-top: -32px; }
+.ieOld .mpu .notification p { padding-top: 10px; }
+.ieOld .mpu .refund { position: relative; }
+.ieOld .mpu .refund p { width: 280px; position: absolute; top: 25%; margin-top: -0.5em; }
+.ieOld .mpu .refund p.ieCentralise { top: 20%; }

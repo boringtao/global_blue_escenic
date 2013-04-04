@@ -1,0 +1,1063 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC
+"-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+var GBA = {};
+GBA.globalAccount = 'UA-12790573-1';
+GBA.globalDomain = 'globalblue.com';
+GBA.localAccount = 'UA-12790573-7';
+GBA.localDomain = 'globalblue.com';
+GBA.currentPubURL = "http://www.globalblue.com/"
+GBA.internalDomains = ['global-blue.com', 'globalblue.com', 'globalblue.ru', 'globalblue.cn'];
+GBA.excludeDomains = ['addthis.com', 'vkontakte.ru', 'vkontakte.com'];
+</script>
+<script type="text/javascript">
+GBA.articleTypeName = null;
+GBA.articleTitleSanitized = null;
+GBA.articleURL = null;
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://www.globalblue.com/skins/global-blue/css/main.css" />
+<link rel="stylesheet" type="text/css" href="http://www.globalblue.com/skins/global-blue/css/ib.css" />
+<link rel="stylesheet" type="text/css" href="http://www.globalblue.com/skins/global-blue/css/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="http://www.globalblue.com/skins/global-blue/css/jquery-ui.css" />
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.globalblue.com/skins/global-blue/css/ie7.css"/>
+<link type="text/css" href="http://www.globalblue.com/skins/global-blue/css/ie7-fixes.css" rel="stylesheet" />
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/json2.js"></script>
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" href="http://www.globalblue.com/skins/global-blue/css/ie-fixes.css" rel="stylesheet" />
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/json2.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.png, .png_bg, .collapseExpandButton span, ul.refund img');
+</script>
+<![endif]-->
+<!--[if (IE 8)]>
+<link type="text/css" href="http://www.globalblue.com/skins/global-blue/css/ie8-fixes.css" rel="stylesheet" />
+<![endif]-->
+<link type="text/css" href="http://www.globalblue.com/skins/global-blue/css/sliderScreen.css" rel="stylesheet" />
+<link rel="shortcut icon" href="http://www.globalblue.com/skins/global-blue/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="http://www.globalblue.com/xmlrpc"/>
+<title>
+Error 404
+Global Blue
+</title>
+<script type="text/javascript">
+var GB = {};
+GB.vars = {};
+</script>
+<!--All translation related javascript variable should go here-->
+<script type="text/javascript">
+//<![CDATA[
+GB.vars.unselectAll = "UNSELECT ALL";
+GB.vars.selectAll = "SELECT ALL";
+GB.vars.shoppingListBubbleMessageForUnauthirizedUser = '<h2>Shopping list</h2><p>Save this page to your account for printing, sharing or future reference.<br /><a class="shoppingListLogin" href="http://www.globalblue.com/profile/login/?redirectionUrl=http%3a%2f%2fwww.globalblue.com%2f404%2f">Log in</a> or <a href="http://www.globalblue.com/profile/registration/">register</a> to get started.</p>';
+GB.vars.login = 'Login';
+GB.vars.resetPassword = 'Reset Password';
+//]]>
+</script>
+<!--Login status check-->
+<script type="text/javascript" src="https://secure.global-blue.com/template/custom/sessionValidator.jsp"></script>
+<script type="text/javascript">
+/*----Below code is for making a single main.js for all publications----*/
+GB.vars.webapp = "secure";
+GB.vars.resetPasswordURL="/resetPassword/";
+GB.vars.logOffURL="/community/logoff.do";
+</script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/resources/js/jquery-ui-1.8.19.custom.min.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/resources/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/resources/js/jquery.charcounter.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/resources/js/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/resources/js/captify.js"></script>
+<script type='text/javascript' src='http://www.globalblue.com/resources/js/flowplayer-3.1.4.min.js'></script>
+<script type="text/javascript" src="http://www.globalblue.com/resources/js/jquery.ui.core.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/resources/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/resources/js/jquery.ui.accordion.js"></script>
+<link rel="stylesheet" href="http://www.globalblue.com/skins/global-blue/css/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/jquery.fancy_alert.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/easySlider1.7.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/modernizr.min.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/jquery.autocomplete.min.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/jquery.simplemodal.1.4.1.min.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="http://www.globalblue.com/skins/global-blue/js/main.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+GB.urls.skin = 'http://www.globalblue.com/skins/global-blue/';
+GB.urls.blankImage = 'http://www.globalblue.com/skins/global-blue/images/blank.gif';
+//]]>
+</script>
+<meta content="Tax free shopping guide in Europe, shopping in france, shopping in italy, shopping in london, shopping news, shopping features, city guides" name="keywords" />
+<meta content="Global Blue official site offers full aspects of tax free shopping information across Europe. The top tax free destinations include London, Paris, Milan, Spain and Germany." name="description" />
+<script type="text/javascript">
+GBA.internalDomains = [ 'global-blue.com', 'globalblue.com', 'globalblue.ru', 'globalblue.cn' ];
+</script>
+<style type="text/css">
+#userMenuList .welcome {
+width: auto;
+_width: 155px;
+max-width: 160px;
+}
+</style>
+<div class="widget code html widget-editable viziwyg-section-12 inpage-widget-114663 cookiePanel" >
+<script type="text/javascript">
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+x=x.replace(/^\s+|\s+$/g,"");
+if (x==c_name)
+{
+return unescape(y);
+}
+}
+}
+function displayNotification()
+{
+$('#cookie-container').show();
+}
+function setJSCheckCookie(c_name,value,exdays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate() + exdays);
+var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+var cookieValue = c_name + "=" + c_value+"; path=/";
+document.cookie = cookieValue;
+}
+function checkCookie()
+{
+var cookieName="jsCookieCheck";
+var cookieChk=getCookie(cookieName);
+if (cookieChk!=undefined)
+{
+setJSCheckCookie(cookieName,cookieChk,365);	// reset the cookie to expire in a year.
+$('#cookie-container').parent().remove();
+}
+else
+{
+// No cookie exists, so display the lightbox effect notification.
+$('#cookie-container').parent().css('display', 'inline');
+displayNotification();
+}
+}
+$(document).ready(function(){
+checkCookie();
+$("button, input, li, a, img, p, span").click(function() {	setJSCheckCookie("jsCookieCheck","globalblue",365);
+$('#cookie-container').slideUp();
+});
+});
+</script>
+<div id="cookie-container"> <div id="gbcookies"> <div id="gbcookies-prompt"> <div class="title"><img src="/customer-services/article114791.ece/BINARY//cookies_gb.png" alt="Cookies &amp; Global Blue" title="Cookies &amp; Global Blue" /></div>
+<p class="first"> We use cookies to ensure that we give you the best experience on our website. By continuing to use the site, you agree to the use of cookies. You can change this and find out more by following this <a href="/customer-services/cookies/">link</a></p>
+<ul> <li id="gbcookies-continue"> <button type="button" id="gbcookies-continue-button" class="png_bg">Continue</button> </li> </ul> </div> </div>
+</div>
+</div>
+<div class="widget profileActions login widget-editable viziwyg-section-12 inpage-widget-114703"
+>
+<hr/>
+<div class="loginFormWrapper">
+<form id="signinForm" method="post" action="https://secure.globalblue.com/community/login.do" class="login">
+<fieldset>
+<input type="hidden" name="targetUrl" value="https://secure.globalblue.com/profile/overview/" /> <input type="hidden" name="errorUrl" value="/profile/editProfile/?p=login" />
+<input type="hidden" name="providerId" value="-1" />
+<input type="hidden" name="savePassword" value="true" />
+<dl class="username">
+<dt>
+<label for="userName">Email</label>
+</dt>
+<dd>
+<input type="text" name="userName" tabindex="1" id="userName" class="text-field" />	</dd>
+</dl>
+<dl class="password">
+<dt>
+<label for="userPassword">Password</label>
+</dt>
+<dd>
+<input type="password" name="password" tabindex="2" id="userPassword" class="text-field" />
+</dd>
+<dd class="loginDD3">
+<input class="loginButton" type="submit" name="loginSubmit" tabindex="4" value="Login" class="button" />
+</dd>
+</dl>	</fieldset>
+</form>
+<hr/>
+<p class="loginLinks">	<a class="blueLink" href="/resetPassword/" onclick="return loadResetPasswordModal();">
+Forgotten password?
+</a>
+<strong>No account?</strong>
+<a class="blueLink" href="http://www.globalblue.com/profile/registration/">
+Register with Global Blue
+</a>
+</p>
+</div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+function loadResetPasswordModal() {
+GB.fancyModal('Reset Password',$('#resetPasswordModal').html(), '', GB.restetPassValidation());
+return false;
+}
+GB.restetPassValidation = function () {
+var resetPassValidator = GB.validator('.resetPassword');
+resetPassValidator.addValidation('userName', 'email', 'This is not a valid email address');
+};
+$(function () {
+var loginFormValidator = GB.validator('#signinForm');
+loginFormValidator.addValidation('userName', 'notnumempty', 'Please enter your username.');
+loginFormValidator.addValidation('password', 'notnumempty', 'Please enter your password.');
+//GB.restetPassValidation();
+});
+// ]]>
+</script>
+<div class="widget code jsp widget-editable viziwyg-section-12 inpage-widget-114661 widget_hidden" >
+<script type="text/javascript">
+var sessionTimeout = 0;
+</script>
+<script type="text/javascript">
+var redirectUrl = "http://www.globalblue.com/?p=expired";
+</script>
+<script type="text/javascript">
+var idleTime = 0;
+var idleInterval = 0;
+$(document).ready(function () {
+//Increment the idle time counter every minute.
+if ((sessionTimeout != null) && (sessionTimeout != 0)) {
+idleInterval = setInterval("timerIncrement()", 60000); // 1 minute
+}
+//Zero the idle timer on mouse movement.
+$(this).mousemove(function (e) {
+idleTime = 0;
+});
+//Zero the idle timer on keypress movement.
+$(this).keypress(function (e) {
+idleTime = 0;
+});
+});
+function timerIncrement() {
+idleTime = idleTime + 1;
+if (idleTime > (sessionTimeout - 1)) {
+idleInterval = 0;
+clearInterval(idleInterval);
+document.location.href = "http://www.globalblue.com/profile/editProfile/?p=call_session_expiry&redirectUrl=http://www.globalblue.com/404/";
+}
+}
+</script>
+</div>
+<div class="widget profileActions resetPassword widget-editable viziwyg-section-4 inpage-widget-130765 widget_hidden" id="resetPasswordModal">
+<div class="lbIntro">
+<p>No problem - just enter your username below and we'll email you a new password.</p>
+</div>
+<hr />
+<div class="resetPassForm">
+<form class="resetPassword" action="https://secure.global-blue.com/community/resetPassword.do" method="post" id="passwordForm">
+<fieldset>
+<input type="hidden" value="/resetPassword/?profileActions=success" name="successUrl" />
+<input type="hidden" value="/resetPassword/" name="errorUrl" />
+<dl>
+<dt>
+<label for="userName">
+Email
+</label>
+</dt>
+<dd>
+<input type="text" class="lbText-field" id="userName" value="" tabindex="1" name="userName" />
+<input type="submit" class="button extra" value='Submit' tabindex="4" name="loginSubmit" />
+</dd>
+</dl>
+</fieldset>
+</form>
+<hr />
+</div>
+<div class="links">
+<p class="lbBtm">
+<strong>No account?</strong>
+<a class="blueLink" href="">Register with Global Blue</a>
+</p> </div>
+</div>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'> </script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-6714801226333490"); GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-6714801226333490", "gb_network_hdr");
+GA_googleAddSlot("ca-pub-6714801226333490", "gb_network_ldb");
+GA_googleAddSlot("ca-pub-6714801226333490", "gb_network_sldb");
+GA_googleAddSlot("ca-pub-6714801226333490", "gb_network_mpu");
+GA_googleAddSlot("ca-pub-6714801226333490", "gb_network_ftr");
+GA_googleAddSlot ("ca-pub-6714801226333490", "gb_microsite_ldb");
+GA_googleAddSlot ("ca-pub-6714801226333490", "gb_microsite_mpu");
+</script>
+<script type="text/javascript">
+// PARSE URL-STEM / SECTION DATA TO ADSERVER TAGS
+var adLocArray=window.location.pathname.toLowerCase().split("/");
+var adLoc = "";
+var adLocCount=0;
+// REMOVE LAST ELEMENT IN LOCATION ARRAY IF NOT ROOT DIR
+if(adLocArray.length>=2){
+adLocArray.pop();
+}
+// ITTERATE THROUGH PATHNAME, ADD TO ADTAG
+for(ad_x in adLocArray){
+adLoc+=adLocArray[ad_x]+"/";
+GA_googleAddAttr("gbad_sect", adLoc.substring(0,40));
+adLocCount++;
+if(adLoc.length>=40){
+break;
+}
+}
+// ADD LEVEL PARAM - DOW DEEP ARE WE INN THE SITE
+GA_googleAddAttr("gbad_levl", adLocCount);
+// MICRO TARGETING - ADD SCRIPTNAME TO TARGET INDIVIDUAL PAGES, URL PARAMS & HOSTNAME
+GA_googleAddAttr("gbad_scpt", window.location.pathname.substring(window.location.pathname.lastIndexOf('/')+1));
+GA_googleAddAttr("gbad_kvps", window.location.search.substring(1));
+GA_googleAddAttr("gbad_host", window.location.hostname);
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<script type="text/javascript" src="/template/custom/html/ga/ga_script.js" ></script>
+<meta name='yandex-verification' content='5e16d89481f7f5c3' />
+<meta name="google-site-verification" content="ERRBhbpnOIisdczm0AA0hzKsoA5klAHcD-8iOw5BRBI" /> <meta name="google-site-verification" content="iLi6NjlKzLePWGOfKO-qdocIz0zoWAnUk-ig_O8CP6o" />
+<meta name="google-site-verification" content="7ZtTYqUP4jh1nHCE1aI-8-_1_2oIZSZBt5xZYdH-1RM" />
+<meta name="p:domain_verify" content="8f834e3a3ef3525d28a105106fbf119a" />
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script></head>
+<body class="content_type_sec gb_ece_pub_id_1 gb_ece_pub_name_globalblue gb_ece_sec_404 gb_ece_sec_1705">
+<div id="viewport">
+<div id="page" class="twoColWithBottom">
+<div id="header">
+<div class="widget logo default widget-editable viziwyg-section-12 inpage-widget-114660" >
+<div>
+<a href="http://www.globalblue.com/" title="">
+<img src="http://www.globalblue.com/config/article114788.ece/BINARY/global_blue_new_logo.png" alt="" title=""/>
+</a>
+</div>
+</div>
+<div class="widget search simpleForm widget-editable viziwyg-section-12 inpage-widget-114614" >
+<div class="simpleSearch">
+<form action="http://www.globalblue.com/search/simple.do" method="get">
+<fieldset>
+<input type="hidden" name="successUrl" value="http://www.globalblue.com/globalblue/search/" />
+<input type="hidden" name="errorUrl" value="/template/common.jsp" />
+<input type="hidden" name="publicationId" value="1" />
+<input type="hidden" name="publicationName" value="globalblue" />
+<input type="hidden" name="sortString" value="contenttypeorder" />
+<input type="hidden" name="sortOrder" value="asc" />
+<input type="hidden" name="homeSectionId" value="1" />
+<input type="hidden" name="sectionId" value="1" />
+<input type="hidden" name="startDay" value="1" />
+<input type="hidden" name="startMonth" value="0" />
+<input type="hidden" name="startYear" value="1970" />
+<input type="hidden" name="includeSubSections" value="true" />
+<input type="hidden" name="articleTypes" value="GlobalBlueBrandWrapper GlobalBlueMicrosite GlobalBluePictureGallery GlobalBlueStory GlobalBlueTFS GlobalBlueBrandListing" />
+<input type="hidden" name="useSectionFilter" value="true" />
+<input type="hidden" name="pageLength" value="20" />
+<input type="hidden" name="searchEngineName" value="LucySearchEngine" />
+<input type="text" id="searchString" name="searchString" value="" placeholder="Search"></input>
+<input type="submit" value="GO" class="button" title="Click here to search" />
+</fieldset>
+</form>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-12 inpage-widget-114706 header_nav_code_widget" >
+<div class="header_nav">
+<ul>
+<li class="languages">
+<div class="languageSelector">
+<p class="english">English<img src="/skins/global-blue/images/lang_select_uk.gif"></img></p>
+<ul>
+<li class="chinese"><a href="http://www.globalblue.cn/" onclick="_gaq.push(['_link', 'http://www.globalblue.cn/']); return true;">中文</a></li>
+<li class="russian"><a href="http://www.global-blue.com/ru/">Русский</a></li>
+</ul> </div>
+</li>
+<li>
+<a href="/corporate/">Corporate</a>
+</li>
+</ul>
+<script type="text/javascript">
+$(document).ready(function() {
+$(".languageSelector").hover(function () {
+$(this).addClass('hover');
+}, function () {
+$(this).removeClass('hover');
+}
+);	});
+</script>
+</div>
+</div>
+<div class="widget code jsp widget-editable viziwyg-section-12 inpage-widget-114786" >
+<ul id="userMenuList">
+<li class="first login">
+<a href="http://www.globalblue.com/profile/login/?redirectionUrl=http%3a%2f%2fwww.globalblue.com%2f404%2f">Login</a>
+</li>
+<li class="register">
+<a href="http://www.globalblue.com/profile/registration/">Register</a>
+</li>
+<li class="welcome">
+<a href="http://www.globalblue.com/profile/overview/">Welcome</a>
+</li>
+<li class="editProfile">
+<a href="http://www.globalblue.com/profile/editProfile/">My Profile</a>
+</li>
+<li class="last logout">
+<a href="http://www.globalblue.com/community/logoff.do">Log Out</a>
+</li>
+</ul>
+<script type="text/javascript">
+$("#userMenuList").parent().attr("id", "login_nav");
+$("#userMenuList").parent().addClass("userMenu").addClass("header_nav_code_widget").addClass("profileMenu");
+GB.urls.account = 'http://www.globalblue.com/profile/overview/';
+GB.urls.editAccount = 'http://www.globalblue.com/profile/editProfile/';
+GB.urls.login = 'http://www.globalblue.com/profile/login/?redirectionUrl=http%3a%2f%2fwww.globalblue.com%2f404%2f';
+GB.urls.logout = 'http://www.globalblue.com/community/logoff.do';
+GB.urls.register = 'http://www.globalblue.com/profile/registration/';
+GB.userMenu();
+</script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-12 inpage-widget-114704 header_nav_code_widget" >
+<div class="header_nav">
+<ul>
+<li class="share_button">
+<a href="http://pinterest.com/globalblue/" target="_blank"><img src="http://www.global-blue.com/incoming/article137130.ece/BINARY//icons-pintrest.png" /></a>	</li>
+<li class="share_button">
+<a href="https://www.facebook.com/Globalblue" target="_blank"><img src="/skins/global-blue/images/facebook.gif" /></a>	</li>
+<li class="share_button">
+<a href="https://twitter.com/globalblue" target="_blank"><img src="/skins/global-blue/images/twitter.gif" /></a>
+</li>
+<li>
+<a href="http://www.global-blue.com/traveller-services/">Customer services</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-12 inpage-widget-145242" >
+<script type='text/javascript'>
+$(document).ready(function() {
+var divs = $("div.randomBox").get().sort(function(){ return Math.round(Math.random())-0.5; }).slice(0,1);
+$(divs).show();
+});
+</script>
+<style>
+div.randomBox {display:none;}
+</style>
+<div class="widget logo default widget-editable viziwyg-section-12 inpage-widget-114611 tagline" >
+<div class="randomBox">
+<a href="http://www.globalblue.com/customer-services/tax-free-shopping/" title="Plan your trip in the world's best shopping cities ans save with Global Blue Tax Free Shopping"><img src="http://www.globalblue.com/specials/downloads/tagline-614x89-en-A.png" alt="Plan your trip in the world's best shopping cities ans save with Global Blue Tax Free Shopping"
+</img></a>
+</div>
+<div class="randomBox">
+<a href="http://www.globalblue.com/customer-services/tax-free-shopping/" title="Shopping abroad? Save time with our shopping tools. Save money with Tax Free Shopping"><img src="http://www.globalblue.com/specials/downloads/tagline-614x89-en-B.png" alt="Shopping abroad? Save time with our shopping tools. Save money with Tax Free Shopping"
+</img></a>
+</div>
+<div class="randomBox">
+<a href="http://www.globalblue.com/customer-services/tax-free-shopping/refund-calculator/" title="Your guide to the world's best shopping experiences and how to save up to 19% on everything you buy"><img src="http://www.globalblue.com/specials/downloads/tagline-614x89-en-C1.png" alt="Your guide to the world's best shopping experiences and how to save up to 19% on everything you buy"
+</img></a>
+</div>
+</div>
+</div>
+<div class="widget commercialPuff default marketEarpiece commercialPuffBlue" >
+<h3>
+<a href="http://www.global-blue.com/discover/videos/" target="_blank">
+<img src="http://www.globalblue.com/incoming/article140877.ece/ALTERNATES/w200h90/puff-200x90.jpg"
+width="200"
+height="90"
+alt="Watch exclusive videos"
+title="Watch exclusive videos"/>
+</a>
+</h3>
+</div>
+</div>
+<div id="navigation">
+<div class="widget code html widget-editable viziwyg-section-12 inpage-widget-114621" >
+<div id="ldbAd">
+<script type='text/javascript'>
+GA_googleFillSlot("gb_network_ldb"); GB.sliderChangeListeners.push(function(slider){
+if(slider.clicked){
+var adHeight ="90"; // The height of the ad area
+var adWidth = "970"; // The width of the ad area
+$("#ldbAd").html("<iframe scrolling='no' marginwidth='0' margineheight='0' height='" + adHeight + "' width='" + adWidth + "' frameBorder='0' style='overflow:hidden;'></iframe>");
+$("#ldbAd iframe").attr("src", "/template/custom/ad.jsp?slot=gb_network_ldb");
+}
+});
+</script>
+</div>
+</div>
+<div class="x970 "
+>
+<div class="column-1">
+<div class="widget menu gbMainNavigation widget-editable viziwyg-section-12 inpage-widget-114760" id="dropdownNav">
+<script type="text/javascript">
+$(document).ready(function() {
+// Hover styling
+$("#dropdownNav li").not(".menuPopUp li").hover(function() {
+$(this).addClass('hover');
+}, function() {
+$(this).removeClass('hover');
+});
+// Clicked styling
+$("#dropdownNav li").not(".menuPopUp li").click(function() {	clearTimeout($(this).data('timeoutId'));
+if(!$('.menuPopUp').is(':animated')) {
+if($("#dropdownNav li").children('.menuPopUp').is(':visible')){ $("#dropdownNav li").children('.menuPopUp').slideUp('slow'); } else { $(this).children('.menuPopUp').slideDown('slow'); }
+}	});
+$("#dropdownNav li").not(".menuPopUp li").hover(function() {
+clearTimeout($(this).data('timeoutId'));
+}, function() {
+var currentElement = $(this);
+var timeoutId = setTimeout(function(){ currentElement.find('.menuPopUp').slideUp('slow'); }, 650);
+currentElement.data('timeoutId', timeoutId);
+});
+});
+</script>
+<ul >
+<li class="first">
+Shop Tax Free
+</li>
+<li >
+Shop by Destination
+</li>
+<li >
+Shop by Brand
+</li>
+<li >
+Shop by Product
+</li>
+<li >
+Shop by Store Type
+</li>
+<li class="last">
+<a href="http://www.globalblue.com/Itinerary_Builder/">Plan Your Shopping Trip</a>
+</li>
+</ul>
+</div>
+<div class="widget code jsp widget-editable viziwyg-section-12 inpage-widget-114762" >
+<div class="menuPopUp destinationsDropdown">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="first">
+<ul>
+<li>
+<a href="http://www.globalblue.com/destinations/">Explore All Destinations</a>
+</li>
+</ul>
+</td>
+<td>
+<ul class="popularList first">
+<li class="first">
+<ul class="noLeftPadding">
+<li class="noBorder">
+Popular Destinations:
+</li>
+</ul>
+</li>
+<li>
+<ul class="noLeftPadding">
+<li class="noBorder" >
+<a href="http://www.globalblue.com/destinations/austria/">Austria</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/belgium/">Belgium</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/cyprus/">Cyprus</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/czechrepublic/">Czech Republic</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="popularList ">
+<li class="first">
+<ul >
+<li class="noBorder">
+<a href="http://www.globalblue.com/destinations/france/" >France</a>
+</li>
+</ul>
+</li>
+<li>
+<ul >
+<li class="noBorder" >
+<a href="http://www.globalblue.com/destinations/denmark/">Denmark</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/finland/">Finland</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/greece/">Greece</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/holland/">Holland</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="popularList ">
+<li class="first">
+<ul >
+<li class="noBorder">
+<a href="http://www.globalblue.com/destinations/germany/" >Germany</a>
+</li>
+</ul>
+</li>
+<li>
+<ul >
+<li class="noBorder" >
+<a href="http://www.globalblue.com/destinations/iceland/">Iceland</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/lebanon/">Lebanon</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/norway/">Norway</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/poland/">Poland</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="popularList ">
+<li class="first">
+<ul >
+<li class="noBorder">
+<a href="http://www.globalblue.com/destinations/italy/" >Italy</a>
+</li>
+</ul>
+</li>
+<li>
+<ul >
+<li class="noBorder" >
+<a href="http://www.globalblue.com/destinations/portugal/">Portugal</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/singapore/">Singapore</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/spain/">Spain</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/sweden/">Sweden</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="popularList last">
+<li class="first">
+<ul >
+<li class="noBorder">
+<a href="http://www.globalblue.com/destinations/uk/" >UK</a>
+</li>
+</ul>
+</li>
+<li>
+<ul >
+<li class="noBorder" >
+<a href="http://www.globalblue.com/destinations/switzerland/">Switzerland</a>
+</li>
+<li >
+<a href="http://www.globalblue.com/destinations/turkey/">Turkey</a>
+</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+GB.navigationDropdown('destinationsDropdown', 1);
+});
+</script>
+</div>
+<div class="widget code jsp widget-editable viziwyg-section-12 inpage-widget-114761" >
+<div class="menuPopUp main_nav_tfs">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="first">
+<ul>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/">Tax Free Shopping</a></li>
+<li><img src="http://www.global-blue.com/customer-services/article126506.ece/BINARY//tfs_nav.png" class="png"></img></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping3/">How to shop Tax Free?</a></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/">Where can I shop Tax Free?</a></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/tax-free-shopping-faqs/">Tax Free Shopping FAQs</a></li>
+</ul>
+<ul>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/refund-calculator/">Refund Calculator</a></li>
+<li><a href="https://secure.global-blue.com/traveller-services/refundtracker/">Refund Tracker</a></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/refund-points/">Refund Points</a></li>
+</ul>
+<ul>
+<li><a href="http://www.globalblue.com/customer-services/currency-choice/">Shop in Your Own Currency</a></li>
+<li><a href="http://www.globalblue.com/customer-services/contact-us/">Contact us</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+GB.navigationDropdown('main_nav_tfs', 0);
+});
+</script>
+</div>
+<div class="widget code jsp widget-editable viziwyg-section-12 inpage-widget-114768" >
+<div class="menuPopUp main_nav_brand">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="first">
+<ul>
+<li><a href="http://www.globalblue.com/brands/">Explore All Brands</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.globalblue.com/brands/brands-news/">Brands News</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/">Brands In Focus</a></li>
+</ul>
+<ul>
+<li><a href="http://www.globalblue.com/brands/specials/baldinini/">Baldinini</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/blumarine/">Blumarine</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/boggi/">Boggi</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/casadei/">Casadei</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/c-and-a/">C&amp;A</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/de-bijenkorf/">De Bijenkorf</a></li>
+</ul>
+<ul>
+<li><a href="http://www.globalblue.com/brands/specials/fratelli-rossetti/">Fratelli Rossetti</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/frankie-morello/">Frankie Morello</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/frette/">Frette</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/gobbi/">Gobbi</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/harrods/">Harrods</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/hausmann-co/">Hausmann &amp; Co.</a></li>
+</ul>
+<ul>
+<li><a href="http://www.globalblue.com/brands/specials/iceberg/">Iceberg</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/montblanc/">Montblanc</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/moss/">Moss</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/selfridges/">Selfridges</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/simonetta-ravizza/">Simonetta Ravizza</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/tkmaxx/">TKMaxx</a></li>
+</ul>
+<ul>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+GB.navigationDropdown('main_nav_brand', 2);
+});
+</script>
+</div>
+<div class="widget code jsp widget-editable viziwyg-section-12 inpage-widget-114767" >
+<div class="menuPopUp main_nav_storetype">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="first">
+<ul>
+<li><a href="http://www.globalblue.com/store-type/">Explore all store types</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.globalblue.com/store-type/boutiques/">Boutiques</a></li>
+<li><a href="http://www.globalblue.com/store-type/shopping-malls/">Shopping Malls</a></li>
+<li><a href="http://www.globalblue.com/store-type/department-stores/">Department Stores</a></li>
+<li><a href="http://www.globalblue.com/store-type/outlet-shopping/">Outlet Shopping</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+GB.navigationDropdown('main_nav_storetype', 4);
+});
+</script>
+</div>
+<div class="widget code jsp widget-editable viziwyg-section-12 inpage-widget-114766" >
+<div class="menuPopUp main_nav_product">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="first">
+<ul>
+<li><a href="http://www.globalblue.com/products/">Explore All Products</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.globalblue.com/products/menswear/">Menswear</a></li>
+<li><a href="http://www.globalblue.com/products/womenswear/">Womenswear</a></li>
+<li><a href="http://www.globalblue.com/products/watches-jewellery/">Watches &amp; Jewellery</a></li>
+<li><a href="http://www.globalblue.com/products/footwear/">Footwear</a></li>
+<li><a href="http://www.globalblue.com/products/health-beauty/">Health &amp; Beauty</a></li>
+</ul>
+<ul>
+<li><a href="http://www.globalblue.com/products/accessories/">Accessories</a></li>
+<li><a href="http://www.globalblue.com/products/electronics-gadgets/">Electronics &amp; Gadgets</a></li>
+<li><a href="http://www.globalblue.com/products/food-drink/">Food &amp; Drink</a></li>
+<li><a href="http://www.globalblue.com/products/bridal/">Bridal</a></li>
+<li><a href="http://www.globalblue.com/products/childrenswear/">Childrenswear</a></li>
+</ul>
+<ul>
+<li><a href="http://www.globalblue.com/products/lingerie/">Lingerie</a></li>
+<li><a href="http://www.globalblue.com/products/sports-leisure/">Sports &amp; Leisure</a></li>
+<li><a href="http://www.globalblue.com/products/arts-entertainment/">Entertainment</a></li>
+<li><a href="http://www.globalblue.com/products/homewares-furniture/">Home &amp; Furniture</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+GB.navigationDropdown('main_nav_product', 3);
+});
+</script>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="widget navigation breadcrumb" >
+<ul>
+<li class="home"><a href="http://www.globalblue.com/">Home </a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="areas">
+<div id="top">
+<div class="x970 "
+>
+<div class="column-1">
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+<div id="main">
+<div class="x416x197 "
+>
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-1708 inpage-widget-126174" >
+<style type="text/css">	#error404 {
+width: 870px;
+background: URL("http://www.global-blue.com/specials/downloads/not_found.jpg") top right no-repeat;
+min-height: 400px;
+text-align: left
+}
+#error404 h2{
+font-size: 40px;
+margin-top: 70px;
+width: 520px;
+line-height: 130%
+}
+#error404 p{
+font-size: 16px;
+margin-top: 30px;
+width: 500px;
+line-height: 130%
+}
+#error404 a:link, a:hover, a:visited{color: #d33}	</style>
+</head>
+<body style="margin-top: 30px">
+<div id="content">
+<div id="error404">
+<h2>Sorry, but that page seems to be missing...</h2>
+<p>Why not try the links above or below? <p>
+<a href="http://www.global-blue.com/">Homepage</a> &nbsp; &nbsp; &nbsp; <a href="http://www.global-blue.com/traveller-services/">Customer Services</a> &nbsp; &nbsp; &nbsp; <a href="http://www.global-blue.com/customer-services/tax-free-shopping/tax-free-shopping-faqs/">FAQs</a> &nbsp; &nbsp; &nbsp; <a href="http://www.global-blue.com/customer-services/contact-us">Contact Us</a>
+</p>
+</div>
+</div>
+</body>
+</div>
+</div>
+<div class="column-2">
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+<div id="right">
+<div class="widget code html widget-editable viziwyg-section-16 inpage-widget-17377" >
+<P>&nbsp;</P>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div id="bottom">
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/4932.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<script type="text/javascript">
+GB.urls.brandsAutocomplete = '/globalblue/searchservice/brand';
+GB.urls.areas = '/globalblue/searchservice/area';
+</script>
+<div class="widget code jsp widget-editable viziwyg-section-12 inpage-widget-114645" >
+<div class="quote">
+<h2>"The world’s best shopping, made even better with Global Blue"</h2>
+<h4></h4>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-12 inpage-widget-114609" >
+<div id="footerNav">
+<ul class="taxFree">
+<li><strong>Tax Free Shopping</strong></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping3/">How to shop Tax Free</a></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/">Where can I shop Tax Free?</a></li>
+<li><a href="http://www.globalblue.com/customer-services/currency-choice/">Shop in your own currency</a></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/refund-calculator/">Refund calculator</a></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/refund-points/">Refund points</a></li>
+<li><a href="https://secure.globalblue.com/traveller-services/refundtracker/">Track your refund</a></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/tax-free-shopping-faqs/">Tax Free Shopping FAQs</a></li>
+<li><a href="http://www.globalblue.com/customer-services/contact-us">Contact us</a></li>
+</ul>
+<ul class="destination">
+<li><strong>Destination shopping</strong></li>
+<li><a href="http://www.globalblue.com/destinations/">See all destinations</a></li>
+<li><a href="http://www.globalblue.com/destinations/uk/london/">London</a></li>
+<li><a href="http://www.globalblue.com/destinations/france/paris/">Paris</a></li>
+<li><a href="http://www.globalblue.com/destinations/italy/milan/">Milan</a></li>
+<li><a href="http://www.globalblue.com/destinations/germany/berlin/">Berlin</a></li>
+</ul>
+<ul class="brands">
+<li><strong>Brands</strong></a></li>
+<li><a href="http://www.globalblue.com/brands/">See all brands</a></li>
+<li><a href="http://www.globalblue.com/brands/listings/">Directory</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/">In focus</a></li>
+<li><a href="http://www.globalblue.com/brands/brands-news/">Brands news</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/montblanc/">Montblanc</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/harrods/">Harrods</a></li>
+<li><a href="http://www.globalblue.com/brands/specials/selfridges/">Selfridges</a></li>
+</ul>
+<ul class="shoppingGuide">
+<li><strong>Shopping guide</strong></a></li>
+<li><a href="http://www.globalblue.com/products/">See all products</a></li>
+<li><a href="http://www.globalblue.com/products/menswear/">For Him </a></li>
+<li><a href="http://www.globalblue.com/products/womenswear/">For Her</a></li>
+<li><a href="http://www.globalblue.com/products/watches-jewellery/">Watches</a></li>
+<li><a href="http://www.globalblue.com/products/">By product</a></li>
+<li><a href="http://www.globalblue.com/store-type/">By store type</a></li>
+</ul>
+<ul class="discover">
+<li><strong>Discover</strong></li>
+<li><a href="http://www.globalblue.com/destinations/">The best shopping</a></li>
+<li><a href="http://www.globalblue.com/discover/street-style/">Street Style</a></li>
+<li><a href="http://www.globalblue.com/discover/celebrity-looks/">Celebrity Looks</a></li>
+<li><a href="http://www.globalblue.com/discover/galleries/">Picture galleries</a></li>
+<li><a href="http://www.globalblue.com/discover/videos/">Videos</a></li>
+<li><a href="http://www.globalblue.com/discover/hotels/">Hotels</a></li>
+</ul>
+<ul class="travelTools">
+<li><strong>Travel tools</strong></a></li>
+<li><a href="http://www.globalblue.com/Itinerary_Builder/">Plan your shopping trip</a></li>
+<li><a href="http://www.globalblue.com/customer-services/tax-free-shopping/refund-calculator/"> Calculate Tax Free savings </a></li>
+<li><a href="https://itunes.apple.com/gb/app/global-blue-london/id507447305 " target='_blank'>Download mobile apps</a></li>
+<li><a href="http://www.globalblue.com/discover/rss/">RSS feeds</a></li>
+</ul>
+</div>
+<div id="footer_bottom_wrapper">
+<div id="footer_bottom">
+<ul>
+<li class="copyright">
+Global Blue &copy; 2012
+</li>
+<li>
+<a href="http://www.globalblue.com/customer-services/contact-us/">Contact us</a>
+</li>
+<li class="seperator">|</li>
+<li>
+<a href="http://www.globalblue.com/customer-services/cookies/">Cookies</a>
+</li>
+<li class="seperator">|</li>
+<li>
+<a href="http://www.globalblue.com/discover/contributors/">Contributors</a>
+</li>
+<li class="seperator">|</li>
+<li>
+<a href="http://www.globalblue.com/customer-services/terms-conditions/">Terms and conditions</a>
+</li>
+<li class="seperator">|</li>
+<li>
+Follow us
+</li>
+<li class="shareButton first">
+<a href="/discover/rss/" target="_blank"><img src="/skins/global-blue/images/rss.gif" alt="RSS"></a>
+</li>
+<li class="share_button">
+<a href="http://pinterest.com/globalblue/" target="_blank"><img src="http://www.global-blue.com/incoming/article137130.ece/BINARY//icons-pintrest.png" /></a>	</li>
+<li class="shareButton">
+<a href="https://www.facebook.com/Globalblue" target="_blank"><img src="/skins/global-blue/images/facebook.gif"></a>
+</li>
+<li class="shareButton">
+<a href="https://twitter.com/globalblue" target="_blank"><img src="/skins/global-blue/images/twitter.gif"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter17148595 = new Ya.Metrika({id:17148595,
+clickmap:true,
+trackLinks:true, webvisor:true});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/17148595" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/4932.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div>
+</div>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","3668cd9096","1061572","NV1aNUNQXUJXWkJZWQwXcjJhHkdUW0laUUIHF1sOXFxcXxhTRUA=",0,224,new Date().getTime(),"","","","",""]);</script></body>
+</html>
+
+
+

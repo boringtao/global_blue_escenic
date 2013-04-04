@@ -1,0 +1,1 @@
+GB.vars.loginStatus = false;
